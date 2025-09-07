@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 import pytz
 import os
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TELEGRAM_BOT_TOKEN = os.getenv("8338895959:AAGLFNeLJ5_RrbKmkcOofK2dZcK60GjeWfA")
+TELEGRAM_CHAT_ID = os.getenv("7988628962")
 
 PAIRS = ["EURUSD-OTC", "USDJPY-OTC", "GBPUSD-OTC", "EURJPY-OTC", "AUDUSD-OTC"]
 DIRECTIONS = ["CALL", "PUT"]
